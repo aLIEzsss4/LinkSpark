@@ -5,12 +5,111 @@ import { defineComponent, Type as RecsType, World } from "@latticexyz/recs";
 
 export function defineContractComponents(world: World) {
   return {
-    Counter: (() => {
-      const tableId = new TableId("", "Counter");
+    Attribute: (() => {
+      const tableId = new TableId("", "Attribute");
+      return defineComponent(
+        world,
+        {
+          attack: RecsType.BigInt,
+          hp: RecsType.BigInt,
+          coin: RecsType.BigInt,
+          exp: RecsType.BigInt,
+        },
+        {
+          metadata: {
+            contractId: tableId.toHexString(),
+            tableId: tableId.toString(),
+          },
+        }
+      );
+    })(),
+    Skill: (() => {
+      const tableId = new TableId("", "Skill");
+      return defineComponent(
+        world,
+        {
+          exists: RecsType.Boolean,
+          cooldown: RecsType.String,
+          effect: RecsType.String,
+        },
+        {
+          metadata: {
+            contractId: tableId.toHexString(),
+            tableId: tableId.toString(),
+          },
+        }
+      );
+    })(),
+    Buff: (() => {
+      const tableId = new TableId("", "Buff");
+      return defineComponent(
+        world,
+        {
+          duration: RecsType.BigInt,
+          effect: RecsType.String,
+        },
+        {
+          metadata: {
+            contractId: tableId.toHexString(),
+            tableId: tableId.toString(),
+          },
+        }
+      );
+    })(),
+    Synthesis: (() => {
+      const tableId = new TableId("", "Synthesis");
+      return defineComponent(
+        world,
+        {
+          duration: RecsType.BigInt,
+          effect: RecsType.String,
+        },
+        {
+          metadata: {
+            contractId: tableId.toHexString(),
+            tableId: tableId.toString(),
+          },
+        }
+      );
+    })(),
+    Hero: (() => {
+      const tableId = new TableId("", "Hero");
+      return defineComponent(
+        world,
+        {
+          race: RecsType.Number,
+          lv: RecsType.BigInt,
+        },
+        {
+          metadata: {
+            contractId: tableId.toHexString(),
+            tableId: tableId.toString(),
+          },
+        }
+      );
+    })(),
+    Race: (() => {
+      const tableId = new TableId("", "Race");
       return defineComponent(
         world,
         {
           value: RecsType.Number,
+        },
+        {
+          metadata: {
+            contractId: tableId.toHexString(),
+            tableId: tableId.toString(),
+          },
+        }
+      );
+    })(),
+    Position: (() => {
+      const tableId = new TableId("", "Position");
+      return defineComponent(
+        world,
+        {
+          x: RecsType.Number,
+          y: RecsType.Number,
         },
         {
           metadata: {

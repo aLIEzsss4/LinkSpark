@@ -1,5 +1,6 @@
 import { useComponentValue } from "@latticexyz/react";
 import { useMUD } from "./MUDContext";
+import AutoChess from './AutoChess/ChessMain'
 
 export const App = () => {
   const {
@@ -24,6 +25,7 @@ export const App = () => {
       >
         Increment
       </button>
+      <AutoChess/>
     </>
   );
 };

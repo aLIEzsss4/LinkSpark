@@ -32,32 +32,32 @@ importers:
         specifier: ^5.7.2
         version: registry.npmmirror.com/@ethersproject/providers@5.7.2
       '@latticexyz/common':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/dev-tools':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/dev-tools@2.0.0-alpha.1.204(@latticexyz/network@2.0.0-alpha.1.204)(@latticexyz/std-client@2.0.0-alpha.1.204)(@latticexyz/utils@2.0.0-alpha.1.204)(@latticexyz/world@2.0.0-alpha.1.204)(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/dev-tools@2.0.0-alpha.1.212(@latticexyz/network@2.0.0-alpha.1.212)(@latticexyz/std-client@2.0.0-alpha.1.212)(@latticexyz/utils@2.0.0-alpha.1.212)(@latticexyz/world@2.0.0-alpha.1.212)(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/network':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.204(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.212(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/react':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/react@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/react@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/recs':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/schema-type':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/std-client':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/std-client@2.0.0-alpha.1.204(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/std-client@2.0.0-alpha.1.212(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/utils':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.204
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.212
       '@latticexyz/world':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.204(typescript@5.1.3)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@5.1.3)
       '@wagmi/chains':
         specifier: ^0.2.22
         version: registry.npmmirror.com/@wagmi/chains@0.2.22(typescript@5.1.3)
@@ -108,20 +108,20 @@ importers:
         specifier: ^5.7.2
         version: registry.npmmirror.com/@ethersproject/providers@5.7.2
       '@latticexyz/cli':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/cli@2.0.0-alpha.1.204(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/cli@2.0.0-alpha.1.212(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)
       '@latticexyz/schema-type':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
       '@latticexyz/std-contracts':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/std-contracts@2.0.0-alpha.1.204
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/std-contracts@2.0.0-alpha.1.212
       '@latticexyz/store':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3)
       '@latticexyz/world':
-        specifier: 2.0.0-alpha.1.204+d97282b6
-        version: registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.204(typescript@5.1.3)
+        specifier: 2.0.0-alpha.1.212
+        version: registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@5.1.3)
       ethers:
         specifier: ^5.7.2
         version: registry.npmmirror.com/ethers@5.7.2
@@ -1217,6 +1217,52 @@ packages:
       - google-protobuf
       - supports-color
       - utf-8-validate
+    dev: true
+
+  registry.npmmirror.com/@latticexyz/cli@2.0.0-alpha.1.212(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2):
+    resolution: {integrity: sha512-1vJAdpIUg3Rr2zuEmsjRQK1f/qU98sxmcAbxyFtd9JTenYPotJoZVjxnkurSZ7yC6O9J4dPkGs2davDnWJh0yA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/cli/-/cli-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/cli/2.0.0-alpha.1.212
+    name: '@latticexyz/cli'
+    version: 2.0.0-alpha.1.212
+    hasBin: true
+    dependencies:
+      '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
+      '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
+      '@improbable-eng/grpc-web': registry.npmmirror.com/@improbable-eng/grpc-web@0.15.0(google-protobuf@3.21.2)
+      '@improbable-eng/grpc-web-node-http-transport': registry.npmmirror.com/@improbable-eng/grpc-web-node-http-transport@0.15.0(@improbable-eng/grpc-web@0.15.0)
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@4.9.5)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@latticexyz/services': registry.npmmirror.com/@latticexyz/services@2.0.0-alpha.1.212
+      '@latticexyz/solecs': registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.212
+      '@latticexyz/std-contracts': registry.npmmirror.com/@latticexyz/std-contracts@2.0.0-alpha.1.212
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@4.9.5)
+      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@4.9.5)
+      '@typechain/ethers-v5': registry.npmmirror.com/@typechain/ethers-v5@10.2.0(@ethersproject/abi@5.7.0)(@ethersproject/bytes@5.7.0)(@ethersproject/providers@5.7.2)(ethers@5.7.2)(typechain@8.1.1)(typescript@4.9.5)
+      chalk: registry.npmmirror.com/chalk@5.2.0
+      chokidar: registry.npmmirror.com/chokidar@3.5.3
+      dotenv: registry.npmmirror.com/dotenv@16.1.4
+      ejs: registry.npmmirror.com/ejs@3.1.9
+      ethers: registry.npmmirror.com/ethers@5.7.2
+      execa: registry.npmmirror.com/execa@7.1.1
+      glob: registry.npmmirror.com/glob@8.1.0
+      nice-grpc-web: registry.npmmirror.com/nice-grpc-web@2.0.2(google-protobuf@3.21.2)
+      openurl: registry.npmmirror.com/openurl@1.1.1
+      path: registry.npmmirror.com/path@0.12.7
+      table: registry.npmmirror.com/table@6.8.1
+      throttle-debounce: registry.npmmirror.com/throttle-debounce@5.0.0
+      typechain: registry.npmmirror.com/typechain@8.1.1(typescript@4.9.5)
+      typescript: registry.npmmirror.com/typescript@4.9.5
+      yargs: registry.npmmirror.com/yargs@17.7.2
+      zod: registry.npmmirror.com/zod@3.21.4
+      zod-validation-error: registry.npmmirror.com/zod-validation-error@1.3.0(zod@3.21.4)
+    transitivePeerDependencies:
+      - '@ethersproject/bytes'
+      - bufferutil
+      - google-protobuf
+      - supports-color
+      - utf-8-validate
+    dev: false
 
   registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@4.9.5)(zod@3.21.4):
     resolution: {integrity: sha512-j7PWzze8KUToj3XXyGNcMA5nNiiqHZjOcnatTKjloQvI4T9p5BVne0zrXgF79qTzStNhJyx9gN3Nvm0bv0bYxg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/common/-/common-2.0.0-alpha.1.204.tgz}
@@ -1233,14 +1279,32 @@ packages:
     transitivePeerDependencies:
       - typescript
       - zod
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-j7PWzze8KUToj3XXyGNcMA5nNiiqHZjOcnatTKjloQvI4T9p5BVne0zrXgF79qTzStNhJyx9gN3Nvm0bv0bYxg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/common/-/common-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/common/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4):
+    resolution: {integrity: sha512-nEG8+gLJTew3j9soVUD7yt+Rag6ckswfgb2A5/30NHuUY/0RXz9UVK+iaLLxTmsgZ64ILbwSC+hgltThKqkvMw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/common/-/common-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/common/2.0.0-alpha.1.212
     name: '@latticexyz/common'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@solidity-parser/parser': registry.npmmirror.com/@solidity-parser/parser@0.16.0
+      chalk: registry.npmmirror.com/chalk@5.2.0
+      execa: registry.npmmirror.com/execa@7.1.1
+      prettier: registry.npmmirror.com/prettier@2.8.8
+      prettier-plugin-solidity: registry.npmmirror.com/prettier-plugin-solidity@1.1.3(prettier@2.8.8)
+    transitivePeerDependencies:
+      - typescript
+      - zod
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-nEG8+gLJTew3j9soVUD7yt+Rag6ckswfgb2A5/30NHuUY/0RXz9UVK+iaLLxTmsgZ64ILbwSC+hgltThKqkvMw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/common/-/common-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/common/2.0.0-alpha.1.212
+    name: '@latticexyz/common'
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
       '@solidity-parser/parser': registry.npmmirror.com/@solidity-parser/parser@0.16.0
       chalk: registry.npmmirror.com/chalk@5.2.0
       execa: registry.npmmirror.com/execa@7.1.1
@@ -1269,15 +1333,16 @@ packages:
       - bufferutil
       - typescript
       - utf-8-validate
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.204(typescript@5.1.3):
-    resolution: {integrity: sha512-/dn0ejLgeV3FenGv9ZA1nMhTmicLfwRlhbNF8vGC1XKU7LP3xzDkSgbYhf0yjLtoSQI+KyvMolt/UtcMtOoBOA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/config/-/config-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/config/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@4.9.5):
+    resolution: {integrity: sha512-/ESJibzt/q8ii165fRgCdwBRIX+hXOoTvYvNAr+KaicQRoE9hRZpHZ0OEOsDrMOBQ18ugIDx2HxDq7jaqUPXsw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/config/-/config-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/config/2.0.0-alpha.1.212
     name: '@latticexyz/config'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
-      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
       chalk: registry.npmmirror.com/chalk@5.2.0
       esbuild: registry.npmmirror.com/esbuild@0.17.19
       ethers: registry.npmmirror.com/ethers@5.7.2
@@ -1290,22 +1355,42 @@ packages:
       - utf-8-validate
     dev: false
 
-  registry.npmmirror.com/@latticexyz/dev-tools@2.0.0-alpha.1.204(@latticexyz/network@2.0.0-alpha.1.204)(@latticexyz/std-client@2.0.0-alpha.1.204)(@latticexyz/utils@2.0.0-alpha.1.204)(@latticexyz/world@2.0.0-alpha.1.204)(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-0Bw0Ls0YhV1mbzOpucVYVtYMBNuuLYumy40CaRqliR60Wcm/8gVI0xRMfYhibBIaSXr6fqY6BOqnncUn5PThUA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/dev-tools/-/dev-tools-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/dev-tools/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@5.1.3):
+    resolution: {integrity: sha512-/ESJibzt/q8ii165fRgCdwBRIX+hXOoTvYvNAr+KaicQRoE9hRZpHZ0OEOsDrMOBQ18ugIDx2HxDq7jaqUPXsw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/config/-/config-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/config/2.0.0-alpha.1.212
+    name: '@latticexyz/config'
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      chalk: registry.npmmirror.com/chalk@5.2.0
+      esbuild: registry.npmmirror.com/esbuild@0.17.19
+      ethers: registry.npmmirror.com/ethers@5.7.2
+      find-up: registry.npmmirror.com/find-up@6.3.0
+      zod: registry.npmmirror.com/zod@3.21.4
+      zod-validation-error: registry.npmmirror.com/zod-validation-error@1.3.0(zod@3.21.4)
+    transitivePeerDependencies:
+      - bufferutil
+      - typescript
+      - utf-8-validate
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/dev-tools@2.0.0-alpha.1.212(@latticexyz/network@2.0.0-alpha.1.212)(@latticexyz/std-client@2.0.0-alpha.1.212)(@latticexyz/utils@2.0.0-alpha.1.212)(@latticexyz/world@2.0.0-alpha.1.212)(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-QTLlRMDLCF7cFHzGvXDM5lizDLfdYoNQzY/Oqn8f2hvu2KbPq6yNzpZnMLCTZ/p6X7gNuXavvlvjDuEnAjticA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/dev-tools/-/dev-tools-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/dev-tools/2.0.0-alpha.1.212
     name: '@latticexyz/dev-tools'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     peerDependencies:
       '@latticexyz/network': '*'
       '@latticexyz/std-client': '*'
       '@latticexyz/utils': '*'
       '@latticexyz/world': '*'
     dependencies:
-      '@latticexyz/network': registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.204(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/react': registry.npmmirror.com/@latticexyz/react@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/std-client': registry.npmmirror.com/@latticexyz/std-client@2.0.0-alpha.1.204(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.204
-      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.204(typescript@5.1.3)
+      '@latticexyz/network': registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.212(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/react': registry.npmmirror.com/@latticexyz/react@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/std-client': registry.npmmirror.com/@latticexyz/std-client@2.0.0-alpha.1.212(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.212
+      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@5.1.3)
       abitype: registry.npmmirror.com/abitype@0.8.7(typescript@5.1.3)(zod@3.21.4)
       react: registry.npmmirror.com/react@18.2.0
       react-dom: registry.npmmirror.com/react-dom@18.2.0(react@18.2.0)
@@ -1323,23 +1408,23 @@ packages:
       - zod
     dev: false
 
-  registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.204(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-AWHNvuDoBUBSnw3SNdT/CEERF0EZEDk62Ri3Mg2gUExo7NQpQpz6NvUZcINjn1Kf0N4nAxnGhetY5ZlR6k4zAw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/network/-/network-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/network/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.212(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-0sdfpKOiDaV1vemWkEogzJbJNXlF2T0I86YeVF11SF1FFtLmvTkB6FfjaS3HiL70YNyE1rIOicefL/Gsg5ieRw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/network/-/network-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/network/2.0.0-alpha.1.212
     name: '@latticexyz/network'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
       '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
       '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
       '@improbable-eng/grpc-web': registry.npmmirror.com/@improbable-eng/grpc-web@0.15.0(google-protobuf@3.21.2)
-      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/recs': registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/services': registry.npmmirror.com/@latticexyz/services@2.0.0-alpha.1.204
-      '@latticexyz/solecs': registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.204
-      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.204
-      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.204(typescript@5.1.3)
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/recs': registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/services': registry.npmmirror.com/@latticexyz/services@2.0.0-alpha.1.212
+      '@latticexyz/solecs': registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.212
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.212
+      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@5.1.3)
       '@wagmi/chains': registry.npmmirror.com/@wagmi/chains@0.2.22(typescript@5.1.3)
       async-mutex: registry.npmmirror.com/async-mutex@0.3.2
       debug: registry.npmmirror.com/debug@4.3.4
@@ -1359,15 +1444,15 @@ packages:
       - zod
     dev: false
 
-  registry.npmmirror.com/@latticexyz/react@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-4uxxUnsJ4MRNZDL7hQn1Vqm+69yBrqnyk0dW5pkadmm+YScECO8c71LItxXdOnQetjE+t1omaAzNvsQ+e/xNaQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/react/-/react-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/react/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/react@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-nVB2MBr7NsdKi2a3Ktd0n3Jmuk7Yoc36+Bu+f9wthdmAMjmAHV441DEnRzaBzhtgr0TdipkyVkCwHsbTUhYLAQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/react/-/react-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/react/2.0.0-alpha.1.212
     name: '@latticexyz/react'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
-      '@latticexyz/recs': registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/store-cache': registry.npmmirror.com/@latticexyz/store-cache@2.0.0-alpha.1.204(react@18.2.0)(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/recs': registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/store-cache': registry.npmmirror.com/@latticexyz/store-cache@2.0.0-alpha.1.212(react@18.2.0)(typescript@5.1.3)(zod@3.21.4)
       fast-deep-equal: registry.npmmirror.com/fast-deep-equal@3.1.3
       mobx: registry.npmmirror.com/mobx@6.9.0
       react: registry.npmmirror.com/react@18.2.0
@@ -1379,14 +1464,14 @@ packages:
       - zod
     dev: false
 
-  registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-pX86CnNwGgKI5bRT59RXKncPY/tsQ8Wmeiddsg1Knyd0e14PHhWK8mU1+vs5uZEnFJkENxVp428f9i1X/k0Zlg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/recs/-/recs-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/recs/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-AUCdNh+GJAZqylZU6RAgfIN384f5SD1FYdwm1HnoOqupIHhAvqxss1wrvXkB3qOy0wTB4fA4Ly8O+YVgiJyRvQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/recs/-/recs-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/recs/2.0.0-alpha.1.212
     name: '@latticexyz/recs'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.204
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.212
       mobx: registry.npmmirror.com/mobx@6.9.0
       rxjs: registry.npmmirror.com/rxjs@7.8.1
     transitivePeerDependencies:
@@ -1406,12 +1491,25 @@ packages:
     transitivePeerDependencies:
       - typescript
       - zod
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-FlcF11T0oB6CNMt0GXA9N56wLCghq6vzIz+4WCWKfTEEVXFa4XMf09WOdhOXoB+Rzl2Ko4TwZoo9IwJtLHnV/w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/schema-type/-/schema-type-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/schema-type/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4):
+    resolution: {integrity: sha512-U/S/8LPoxFzQZyy1UmuRkhYbQjYtn8AnHbVq7rqKyg4iYaecIbW67+Igmj37OqCE5xAraYnjt16VMQ4jOIx70w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/schema-type/-/schema-type-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/schema-type/2.0.0-alpha.1.212
     name: '@latticexyz/schema-type'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      abitype: registry.npmmirror.com/abitype@0.8.7(typescript@4.9.5)(zod@3.21.4)
+    transitivePeerDependencies:
+      - typescript
+      - zod
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-U/S/8LPoxFzQZyy1UmuRkhYbQjYtn8AnHbVq7rqKyg4iYaecIbW67+Igmj37OqCE5xAraYnjt16VMQ4jOIx70w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/schema-type/-/schema-type-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/schema-type/2.0.0-alpha.1.212
+    name: '@latticexyz/schema-type'
+    version: 2.0.0-alpha.1.212
     dependencies:
       abitype: registry.npmmirror.com/abitype@0.8.7(typescript@5.1.3)(zod@3.21.4)
     transitivePeerDependencies:
@@ -1427,6 +1525,17 @@ packages:
       long: registry.npmmirror.com/long@5.2.3
       nice-grpc-common: registry.npmmirror.com/nice-grpc-common@2.0.2
       protobufjs: registry.npmmirror.com/protobufjs@7.2.3
+    dev: true
+
+  registry.npmmirror.com/@latticexyz/services@2.0.0-alpha.1.212:
+    resolution: {integrity: sha512-M0P/US3TXvjX15feHr8k0MtiOqXbFTo/GiN9XNOEAMmQaq6fzysoAVbrquWEmfQwgE0maO45Pe2g0PUHdxApew==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/services/-/services-2.0.0-alpha.1.212.tgz}
+    name: '@latticexyz/services'
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      long: registry.npmmirror.com/long@5.2.3
+      nice-grpc-common: registry.npmmirror.com/nice-grpc-common@2.0.2
+      protobufjs: registry.npmmirror.com/protobufjs@7.2.3
+    dev: false
 
   registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.204:
     resolution: {integrity: sha512-0slV3nq8akCEE5100iVdFd7mrmOdJGf4uHyP65I3No54O38ujznL5Zq2dyQDz9fSWHCEKyt1qwrvG4UkA5+qtg==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/solecs/-/solecs-2.0.0-alpha.1.204.tgz}
@@ -1443,23 +1552,41 @@ packages:
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/std-client@2.0.0-alpha.1.204(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-jA3rmNuw1+AxNembWxKPuD5rKX9FUV+dnMacMeMQqd4ld48gxsb9K3iI28bZ0ONEc11KbQ5qnQM316iyzQditQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/std-client/-/std-client-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/std-client/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.212:
+    resolution: {integrity: sha512-C/O3Xy4IErzZ2Rqr3hlI+rWztjlm+f7FMPU/DlXUwBpRTGNaqYH0piwxKU47MyHNLym/3QBSHHc60fAjMBlhMQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/solecs/-/solecs-2.0.0-alpha.1.212.tgz}
+    name: '@latticexyz/solecs'
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
+      '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
+      '@solidstate/contracts': registry.npmmirror.com/@solidstate/contracts@0.0.52
+      ds-test: github.com/dapphub/ds-test/c9ce3f25bde29fc5eb9901842bf02850dfd2d084
+      ethers: registry.npmmirror.com/ethers@5.7.2
+      memmove: github.com/dk1a/memmove/ffd71cd77b1708574ef46a667b23ca3a5cc9fa27
+      solmate: github.com/transmissions11/solmate/9cf1428245074e39090dceacb0c28b1f684f584c
+    transitivePeerDependencies:
+      - bufferutil
+      - utf-8-validate
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/std-client@2.0.0-alpha.1.212(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-pE6leP92amASYdT/4l41nn8bIKyP/J3JENZoMq69uBvCtMVOFGCnoGuCNFupgC8qfXQVy/u529iK/ZlANe59MQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/std-client/-/std-client-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/std-client/2.0.0-alpha.1.212
     name: '@latticexyz/std-client'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
       '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
-      '@latticexyz/cli': registry.npmmirror.com/@latticexyz/cli@2.0.0-alpha.1.204(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)
-      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/network': registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.204(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/recs': registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/solecs': registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.204
-      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/store-cache': registry.npmmirror.com/@latticexyz/store-cache@2.0.0-alpha.1.204(react@18.2.0)(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.204
-      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.204(typescript@5.1.3)
+      '@latticexyz/cli': registry.npmmirror.com/@latticexyz/cli@2.0.0-alpha.1.212(@ethersproject/bytes@5.7.0)(google-protobuf@3.21.2)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/network': registry.npmmirror.com/@latticexyz/network@2.0.0-alpha.1.212(google-protobuf@3.21.2)(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/recs': registry.npmmirror.com/@latticexyz/recs@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/solecs': registry.npmmirror.com/@latticexyz/solecs@2.0.0-alpha.1.212
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/store-cache': registry.npmmirror.com/@latticexyz/store-cache@2.0.0-alpha.1.212(react@18.2.0)(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/utils': registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.212
+      '@latticexyz/world': registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@5.1.3)
       abitype: registry.npmmirror.com/abitype@0.8.7(typescript@5.1.3)(zod@3.21.4)
       ethers: registry.npmmirror.com/ethers@5.7.2
       mobx: registry.npmmirror.com/mobx@6.9.0
@@ -1480,17 +1607,24 @@ packages:
     resolution: {integrity: sha512-Vxe3WPj4sDc50uyYZC5HsC3JSeHdi+vVmNDjLBoVD2zNHLXkoFKMgw2fR+KJFc2gfScNpFsOusEmokyoiX9DYw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/std-contracts/-/std-contracts-2.0.0-alpha.1.204.tgz}
     name: '@latticexyz/std-contracts'
     version: 2.0.0-alpha.1.204
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/store-cache@2.0.0-alpha.1.204(react@18.2.0)(typescript@5.1.3)(zod@3.21.4):
-    resolution: {integrity: sha512-H/rXFCn1I1aK9ZXme8LFgskNktXh41CnGzxQMlri07sINfgErctqL8f7HUHVfXyc4ORy8OHnxCRIV2mi6QH0lQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/store-cache/-/store-cache-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/store-cache/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/std-contracts@2.0.0-alpha.1.212:
+    resolution: {integrity: sha512-39wEfP5Uyq+YLcJByt1OO6AVgZATKuO8JPkXUpKW9nhICUUN93Ia1LLEJ6euuFGfZNM7tw8Mck7OfevaW6bwUQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/std-contracts/-/std-contracts-2.0.0-alpha.1.212.tgz}
+    name: '@latticexyz/std-contracts'
+    version: 2.0.0-alpha.1.212
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/store-cache@2.0.0-alpha.1.212(react@18.2.0)(typescript@5.1.3)(zod@3.21.4):
+    resolution: {integrity: sha512-vJx2/gN3nrxBZake0ZG05joK5LNeaSjuTtS9K611+2Q2cP/2w6JjAM6AeE0Wi5w9v9iDTfqCn4BJ9Vb01z0zaQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/store-cache/-/store-cache-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/store-cache/2.0.0-alpha.1.212
     name: '@latticexyz/store-cache'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
-      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3)
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3)
       abitype: registry.npmmirror.com/abitype@0.8.7(typescript@5.1.3)(zod@3.21.4)
       tuple-database: registry.npmmirror.com/tuple-database@2.2.0(react@18.2.0)
     transitivePeerDependencies:
@@ -1518,18 +1652,19 @@ packages:
       - bufferutil
       - typescript
       - utf-8-validate
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3):
-    resolution: {integrity: sha512-I0UUSWmZAbCMjadwWmyImq/gVaklr2J5qvLb6llVv63ek30xEtee4c784DtyesbIH9opNl4mqMcgziDCcwgJqQ==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/store/-/store-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/store/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@4.9.5):
+    resolution: {integrity: sha512-sMgoJrNxUZzrxo1xVe8P400/CSlvGfI2hhUmFN3evVlWnoOVCzqRoR/tI6wjkUvIK6y9XvkQX/hMoJhks2Ro8w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/store/-/store-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/store/2.0.0-alpha.1.212
     name: '@latticexyz/store'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
       '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
       '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
-      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@4.9.5)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
       ethers: registry.npmmirror.com/ethers@5.7.2
       zod: registry.npmmirror.com/zod@3.21.4
     transitivePeerDependencies:
@@ -1538,10 +1673,29 @@ packages:
       - utf-8-validate
     dev: false
 
-  registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.204:
-    resolution: {integrity: sha512-ds7pTRnIY0fXgCgff50IrZ9Zpk+Sy0Z3LptyEQzeYUrNSm36biw4WhDlPRkUhK0f2zWTrzUBRzuiT4DVLqJNzA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/utils/-/utils-2.0.0-alpha.1.204.tgz}
+  registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3):
+    resolution: {integrity: sha512-sMgoJrNxUZzrxo1xVe8P400/CSlvGfI2hhUmFN3evVlWnoOVCzqRoR/tI6wjkUvIK6y9XvkQX/hMoJhks2Ro8w==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/store/-/store-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/store/2.0.0-alpha.1.212
+    name: '@latticexyz/store'
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
+      '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      ethers: registry.npmmirror.com/ethers@5.7.2
+      zod: registry.npmmirror.com/zod@3.21.4
+    transitivePeerDependencies:
+      - bufferutil
+      - typescript
+      - utf-8-validate
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/utils@2.0.0-alpha.1.212:
+    resolution: {integrity: sha512-15H8pqcyq4APmXAs9EKiPBSFT48tPHEX/yMCOCy340jId1WrZ9ucuZuB2c+WWATaUpvjjGjlTcEDVMhUvEGdMA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/utils/-/utils-2.0.0-alpha.1.212.tgz}
     name: '@latticexyz/utils'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
       ethers: registry.npmmirror.com/ethers@5.7.2
       mobx: registry.npmmirror.com/mobx@6.9.0
@@ -1570,19 +1724,40 @@ packages:
       - bufferutil
       - typescript
       - utf-8-validate
+    dev: true
 
-  registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.204(typescript@5.1.3):
-    resolution: {integrity: sha512-1+endjm34EVQMuNAeKrqdq0d9wFuLoFOnypmenKNOUWXT1Ts63hpkITrfB+enOcjafgXDhv36yzRO0e8F7Vqjw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/world/-/world-2.0.0-alpha.1.204.tgz}
-    id: registry.npmmirror.com/@latticexyz/world/2.0.0-alpha.1.204
+  registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@4.9.5):
+    resolution: {integrity: sha512-0+7N0GK0sVO8PbzDleFPGVuKjO9RyXOYxCrO+MrXDDCXCl3VWUY6HK7xCw+JOJhPcPHOYyLnsVp5gI3/QaUfSA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/world/-/world-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/world/2.0.0-alpha.1.212
     name: '@latticexyz/world'
-    version: 2.0.0-alpha.1.204
+    version: 2.0.0-alpha.1.212
     dependencies:
       '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
       '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
-      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.204(typescript@5.1.3)
-      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.204(typescript@5.1.3)(zod@3.21.4)
-      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.204(typescript@5.1.3)
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@4.9.5)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@4.9.5)(zod@3.21.4)
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@4.9.5)
+      ethers: registry.npmmirror.com/ethers@5.7.2
+      zod: registry.npmmirror.com/zod@3.21.4
+    transitivePeerDependencies:
+      - bufferutil
+      - typescript
+      - utf-8-validate
+    dev: false
+
+  registry.npmmirror.com/@latticexyz/world@2.0.0-alpha.1.212(typescript@5.1.3):
+    resolution: {integrity: sha512-0+7N0GK0sVO8PbzDleFPGVuKjO9RyXOYxCrO+MrXDDCXCl3VWUY6HK7xCw+JOJhPcPHOYyLnsVp5gI3/QaUfSA==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@latticexyz/world/-/world-2.0.0-alpha.1.212.tgz}
+    id: registry.npmmirror.com/@latticexyz/world/2.0.0-alpha.1.212
+    name: '@latticexyz/world'
+    version: 2.0.0-alpha.1.212
+    dependencies:
+      '@ethersproject/abi': registry.npmmirror.com/@ethersproject/abi@5.7.0
+      '@ethersproject/providers': registry.npmmirror.com/@ethersproject/providers@5.7.2
+      '@latticexyz/common': registry.npmmirror.com/@latticexyz/common@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/config': registry.npmmirror.com/@latticexyz/config@2.0.0-alpha.1.212(typescript@5.1.3)
+      '@latticexyz/schema-type': registry.npmmirror.com/@latticexyz/schema-type@2.0.0-alpha.1.212(typescript@5.1.3)(zod@3.21.4)
+      '@latticexyz/store': registry.npmmirror.com/@latticexyz/store@2.0.0-alpha.1.212(typescript@5.1.3)
       ethers: registry.npmmirror.com/ethers@5.7.2
       zod: registry.npmmirror.com/zod@3.21.4
     transitivePeerDependencies:
@@ -4754,6 +4929,7 @@ packages:
     version: 2.6.2
     engines: {node: '>=10.13.0'}
     hasBin: true
+    dev: true
 
   registry.npmmirror.com/prettier@2.8.8:
     resolution: {integrity: sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/prettier/-/prettier-2.8.8.tgz}
@@ -5648,7 +5824,7 @@ packages:
       js-sha3: registry.npmmirror.com/js-sha3@0.8.0
       lodash: registry.npmmirror.com/lodash@4.17.21
       mkdirp: registry.npmmirror.com/mkdirp@1.0.4
-      prettier: registry.npmmirror.com/prettier@2.6.2
+      prettier: registry.npmmirror.com/prettier@2.8.8
       ts-command-line-args: registry.npmmirror.com/ts-command-line-args@2.5.1
       ts-essentials: registry.npmmirror.com/ts-essentials@7.0.3(typescript@4.9.5)
       typescript: registry.npmmirror.com/typescript@4.9.5
